@@ -4,4 +4,5 @@ https://leetcode.com/problems/merge-sorted-array/
 
 **Below is my solution screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4093179-5be2-490f-a8ce-512d5057d37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/587b9152-6d57-4760-aa7c-b66d5473347d" />
+
