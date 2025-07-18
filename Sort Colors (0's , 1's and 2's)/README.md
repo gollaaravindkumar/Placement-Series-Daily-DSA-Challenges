@@ -21,16 +21,6 @@ mid (initially at the start)
 
 high (initially at the end)
 
-The array is partitioned into four parts:
-
-Elements before low are all 0s
-
-Elements between low and mid are all 1s
-
-Elements between mid and high are unknown (to be processed)
-
-Elements after high are all 2s
-
 
 **Dry Run & Intuition**
 
