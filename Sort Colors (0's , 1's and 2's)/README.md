@@ -16,8 +16,11 @@ Key idea:
 **Maintain three pointers:**
 
 low (initially at the start)
+
 mid (initially at the start)
+
 high (initially at the end)
+
 The array is partitioned into four parts:
 
 Elements before low are all 0s
@@ -37,7 +40,9 @@ If nums[mid] == 2, swap it with nums[high], decrement high.
 **This ensures:**
 
 All 0s are moved to the front.
+
 All 2s are moved to the end.
+
 Remaining elements (1s) stay in the middle.
 
 **Why does this work?**
