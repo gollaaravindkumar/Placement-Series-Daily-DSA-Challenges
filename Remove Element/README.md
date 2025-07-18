@@ -4,4 +4,5 @@ https://leetcode.com/problems/remove-element/description/
 
 **Below is my solution screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4093179-5be2-490f-a8ce-512d5057d37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b7984d5-9e9f-4e0c-a974-57f69c41e258" />
+
