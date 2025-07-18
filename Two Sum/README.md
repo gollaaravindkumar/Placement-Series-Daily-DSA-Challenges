@@ -4,4 +4,5 @@ https://leetcode.com/problems/two-sum/
 
 **Below is my solution screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4093179-5be2-490f-a8ce-512d5057d37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0998c6d0-e532-4b69-8a38-537df01374f8" />
+
