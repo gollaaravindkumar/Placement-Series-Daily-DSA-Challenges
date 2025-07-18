@@ -7,7 +7,7 @@ https://leetcode.com/problems/sort-colors/
 
 The problem is similar to sorting three categories, which is effectively what the Dutch National Flag problem addresses.
 
-Key idea:
+**Key idea:**
 
 
 ![WhatsApp Image 2025-07-19 at 00 54 18_5f47023f](https://github.com/user-attachments/assets/987b2d47-dbad-4b6e-946a-39509e917469)
@@ -24,8 +24,11 @@ high (initially at the end)
 The array is partitioned into four parts:
 
 Elements before low are all 0s
+
 Elements between low and mid are all 1s
+
 Elements between mid and high are unknown (to be processed)
+
 Elements after high are all 2s
 
 
@@ -33,8 +36,11 @@ Elements after high are all 2s
 
 
 We traverse the array using the mid pointer:
+
 If nums[mid] == 0, swap it with nums[low], increment low and mid.
+
 If nums[mid] == 1, just move mid forward.
+
 If nums[mid] == 2, swap it with nums[high], decrement high.
 
 **This ensures:**
@@ -53,7 +59,9 @@ Because each swap places an unknown element into its correct part, and by adjust
 
 
 Single-pass: Efficiently sorts in O(n) time.
+
 In-place: Uses only constant extra space.
+
 Simple & Intuitive: Mimics the process of sorting three partitions, like a classical Dutch flag.
 
 
