@@ -4,4 +4,5 @@ https://leetcode.com/problems/single-element-in-a-sorted-array/
 
 **Below is my solution screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4093179-5be2-490f-a8ce-512d5057d37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21c63a2d-8ad1-4146-8f60-458c6bae6171" />
+
