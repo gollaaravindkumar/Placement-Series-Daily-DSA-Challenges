@@ -4,7 +4,7 @@ https://leetcode.com/problems/majority-element/
 
 **Intuition Behind Moore's Voting Algorithm**
 
-**Moore's Voting Algorithm** is an efficient method to find the majority element in linear time and constant space. The core idea is based on counting and canceling out different elements:
+**Moore's Voting Algorithm** is an efficient method to find the majority element in linear time and constant space. The core idea is based on **counting** and **canceling** out different elements:
 
 **Key concept:**
 
