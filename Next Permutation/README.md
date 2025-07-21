@@ -4,4 +4,5 @@ https://leetcode.com/problems/next-permutation
 
 **Below is my solution screenshot:**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4093179-5be2-490f-a8ce-512d5057d37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a480ff12-ba0c-4646-ae08-b6f212de3175" />
+
